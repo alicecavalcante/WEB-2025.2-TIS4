@@ -4,7 +4,7 @@
 - [Atividade 01](https://alicecavalcante.github.io/Atividade01-html/)
 - [Atividade 02](https://alicecavalcante.github.io/atividade02-html/)
 - [Atividade 03](https://alicecavalcante.github.io/atividade03-html/)
-- [Atividade 04](https://alicecavalcante.github.io/Atividade01-html/)
+- [Atividade 04](https://alicecavalcante.github.io/Atividade04-html/)
 - [Atividade 05](https://alicecavalcante.github.io/Atividade01-html/)
 - [Atividade 06](https://alicecavalcante.github.io/Atividade01-html/)
 - [Atividade 07](https://alicecavalcante.github.io/Atividade01-html/)
