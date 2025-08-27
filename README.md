@@ -1,5 +1,12 @@
 # WEB-2025.2-TIS4
 
+**Aluna:** Maria Alice Cavalcante de Brito.
+**Semestre:** S4
+
+### Descrição do Repositório
+
+Esse repositório contém as 14 atividades da matéria de WEB-S4.
+
 
 - [Atividade 01](https://alicecavalcante.github.io/Atividade01-html/)
 - [Atividade 02](https://alicecavalcante.github.io/atividade02-html/)
