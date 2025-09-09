@@ -21,5 +21,5 @@ Esse repositório contém as 14 atividades da matéria de WEB-S4.
 - [Atividade 10](https://alicecavalcante.github.io/Atividade-10-html/)
 - [Atividade 11](https://alicecavalcante.github.io/Atividade-11-html/)
 - [Atividade 12](https://alicecavalcante.github.io/Atividade-12-html/)
-- [Atividade 13]()
+- [Atividade 13](https://alicecavalcante.github.io/Atividade13-html/)
 - [Atividade 14](https://alicecavalcante.github.io/Atividade14-html/)
